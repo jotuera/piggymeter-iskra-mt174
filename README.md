@@ -1,5 +1,11 @@
 # PiggyMeter × Iskra MT174 — ESPHome / Home Assistant
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ESPHome-2026.7%2B-41BDF5.svg" alt="ESPHome 2026.7+">
+  <img src="https://img.shields.io/badge/platform-ESP32--C3-41BDF5.svg" alt="ESP32-C3">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT"></a>
+</p>
+
 Reading an **Iskraemeco MT174** electricity meter over its optical (IR) port with a
 [PiggyMeter](https://aquaticus.info/meter.html) head and **ESPHome**, exposing full data
 plus analytics to Home Assistant — no cloud, fully local.
